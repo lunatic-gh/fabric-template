@@ -1,7 +1,7 @@
 import org.apache.commons.io.FileUtils
 
 plugins {
-    id 'fabric-loom' version '1.8.11'
+    id 'fabric-loom' version '1.10-SNAPSHOT'
     id 'maven-publish'
 }
 
